@@ -24,7 +24,7 @@
 
 ## Lektionsrepon:
 * [Måndag]() - Intro till variabler, enheter och typografi. Genomgång av Google fonts.
-* [Tisdag]() - 
-* [Onsdag]() - 
-* [Torsdag]() - 
+* [Tisdag]() - Forts. av gårdagen. Code along.
+* [Onsdag]() - Intro till animationer, transitions med transform på olika events (hover, mouse-leave etc)
+* [Torsdag]() - Intro till clean code och code along på veckans koncept.
 * [Fredag]() - Code review på lösningen av [Get Coding](https://www.figma.com/design/Kox5hlXEK8TDgnhpRXOYeM/mockup?node-id=0-1&node-type=canvas&t=gbOCVJDvvtuOVdRM-0)
