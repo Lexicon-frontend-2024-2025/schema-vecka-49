@@ -19,6 +19,7 @@
 
 ## Övningar:
 * [CSS-selektorer](https://github.com/Lexicon-frontend-2024-2025/ovning-css-selektorer)
+* [Get Coding, följ skiss](https://www.figma.com/design/Kox5hlXEK8TDgnhpRXOYeM/mockup?node-id=0-1&node-type=canvas&t=gbOCVJDvvtuOVdRM-0)
 
 ## Slides:
 
@@ -27,4 +28,4 @@
 * [Tisdag]() - 
 * [Onsdag]() - 
 * [Torsdag]() - 
-* [Fredag]() - 
+* [Fredag]() - Code review på skissen [Get Coding](https://www.figma.com/design/Kox5hlXEK8TDgnhpRXOYeM/mockup?node-id=0-1&node-type=canvas&t=gbOCVJDvvtuOVdRM-0)
