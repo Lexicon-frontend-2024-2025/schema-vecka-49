@@ -23,7 +23,7 @@
 ## Slides:
 
 ## Lektionsrepon:
-* [Måndag]() - 
+* [Måndag]() - Intro till variabler, enheter och typografi. Genomgång av Google fonts.
 * [Tisdag]() - 
 * [Onsdag]() - 
 * [Torsdag]() - 
