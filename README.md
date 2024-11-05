@@ -14,7 +14,8 @@
 #### Utvalda för denna veckan:
 * [Kort genomgång och övning om font och animeringar (del 5 - Fonts & Interactions)](https://app.pluralsight.com/ilx/video-courses/fac15700-fb03-4c72-b291-efdb54933a8e/fb7fa961-e767-4080-b678-540d2ddb6d78/d2c922b9-ab51-4927-8329-95a47b92a9a7)
 #### Läsning:
-* [CSS reset](https://meyerweb.com/eric/tools/css/reset/)
+* [CSS reset](https://codepen.io/kevinpowell/pen/QWxBgZX)
+* [CSS Reset++](https://piccalil.li/blog/a-more-modern-css-reset/)
 * [Whatunit.com - Flow chart för att välja rätt css enhet](https://whatunit.com/) - [Förklaring och genomgång av Flow chart](https://www.youtube.com/watch?v=Utc_uhvTluk)
 
 ## Övningar:
