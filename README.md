@@ -21,6 +21,7 @@
 
 ## Övningar:
 * [Get Coding, följ skiss](https://www.figma.com/design/Kox5hlXEK8TDgnhpRXOYeM/mockup?node-id=0-1&node-type=canvas&t=gbOCVJDvvtuOVdRM-0)
+* [Animationsbootcamp](https://github.com/Lexicon-Frontend-2024/exercise-animation-bootcamp)
 
 ## Slides:
 * [Typografi](https://docs.google.com/presentation/d/1yrEVSQZPDxgLMAOTEv4kqDQYxbQbW13Xx91VIdZ00fo/edit#slide=id.ga9c0c654c7_0_222)
