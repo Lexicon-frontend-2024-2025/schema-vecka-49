@@ -17,6 +17,7 @@
 * [CSS reset](https://codepen.io/kevinpowell/pen/QWxBgZX)
 * [CSS Reset++](https://piccalil.li/blog/a-more-modern-css-reset/)
 * [Whatunit.com - Flow chart för att välja rätt css enhet](https://whatunit.com/) - [Förklaring och genomgång av Flow chart](https://www.youtube.com/watch?v=Utc_uhvTluk)
+* [CSS-variables](https://www.freecodecamp.org/news/how-to-use-css-variables/)
 
 ## Övningar:
 * [Get Coding, följ skiss](https://www.figma.com/design/Kox5hlXEK8TDgnhpRXOYeM/mockup?node-id=0-1&node-type=canvas&t=gbOCVJDvvtuOVdRM-0)
