@@ -12,10 +12,10 @@
 #### E-Learning:
 [Samlat innehåll för hela kursen](https://github.com/Lexicon-frontend-2024-2025/e-learning)
 #### Utvalda för denna veckan:
-* [Nytt i HTML5/Semantiska element (Del 1 & 2 av kursen)](https://app.pluralsight.com/library/courses/html-5-css-3-overview-tag-attribute-selector-additions/table-of-contents)
+* [Kort genomgång och övning om font och animeringar (del 5 - Fonts & Interactions)](https://app.pluralsight.com/ilx/video-courses/fac15700-fb03-4c72-b291-efdb54933a8e/fb7fa961-e767-4080-b678-540d2ddb6d78/d2c922b9-ab51-4927-8329-95a47b92a9a7)
 #### Läsning:
-* [Logical properties](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_logical_properties_and_values)
 * [CSS reset](https://meyerweb.com/eric/tools/css/reset/)
+* [Whatunit.com - Flow chart för att välja rätt css enhet](https://whatunit.com/) - [Förklaring och genomgång av Flow chart](https://www.youtube.com/watch?v=Utc_uhvTluk)
 
 ## Övningar:
 * [Get Coding, följ skiss](https://www.figma.com/design/Kox5hlXEK8TDgnhpRXOYeM/mockup?node-id=0-1&node-type=canvas&t=gbOCVJDvvtuOVdRM-0)
