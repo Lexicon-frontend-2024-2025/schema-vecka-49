@@ -30,6 +30,6 @@
 ##### Med tillhörande repon
 * **[Måndag]()** - Intro till variabler, enheter och typografi. Genomgång av Google fonts. Börja med [Get Coding](https://www.figma.com/design/Kox5hlXEK8TDgnhpRXOYeM/mockup?node-id=0-1&node-type=canvas&t=gbOCVJDvvtuOVdRM-0), deadline på fredag.
 * **[Tisdag]()** - Forts. av gårdagen. Code along.
-* **[Onsdag]()** - Intro till animationer, transitions med transform på olika events (hover, mouse-leave etc). Börja med [Animation Bootacmp](https://github.com/Lexicon-frontend-2024-2025/animation-bootcamp), deadline på tisdag.
+* **[Onsdag]()** - Intro till animationer, transitions med transform på olika events (hover, mouse-leave etc). Börja med [Animation Bootcamp](https://github.com/Lexicon-frontend-2024-2025/animation-bootcamp), deadline på tisdag.
 * **[Torsdag]()** - Intro till clean code och code along på veckans koncept.
 * **[Fredag]()** - Code review på lösningen av [Get Coding](https://www.figma.com/design/Kox5hlXEK8TDgnhpRXOYeM/mockup?node-id=0-1&node-type=canvas&t=gbOCVJDvvtuOVdRM-0)
