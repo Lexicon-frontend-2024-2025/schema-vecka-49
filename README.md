@@ -15,7 +15,7 @@
 #### Läsning
 * [Minimal CSS reset](https://codepen.io/kevinpowell/pen/QWxBgZX)
 * [CSS Reset++](https://piccalil.li/blog/a-more-modern-css-reset/)
-* [Whatunit.com - Flow chart för att välja rätt css enhet](https://whatunit.com/) - [Förklaring och genomgång av Flow chart](https://www.youtube.com/watch?v=Utc_uhvTluk)
+* [Whatunit.com](https://whatunit.com/) - Flow chart för att välja rätt css enhet + [Förklaring och genomgång av Flow chart](https://www.youtube.com/watch?v=Utc_uhvTluk)
 * [CSS-variabler](https://www.freecodecamp.org/news/how-to-use-css-variables/)
 
 ## Youtube
