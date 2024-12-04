@@ -17,6 +17,7 @@
 * [CSS Reset++](https://piccalil.li/blog/a-more-modern-css-reset/)
 * [Whatunit.com](https://whatunit.com/) - Flow chart för att välja rätt css enhet + [Förklaring och genomgång av Flow chart](https://www.youtube.com/watch?v=Utc_uhvTluk)
 * [CSS-variabler](https://www.freecodecamp.org/news/how-to-use-css-variables/)
+* [CSS-selektorer](https://docs.google.com/presentation/d/1roWAreTYHDpQqxnZLhBtPRJIBUEeoOO98AKveVBfhkg/edit#slide=id.p)
 
 ## Youtube
 * [Don't use px for font-size](https://www.youtube.com/watch?v=xCSw6bPXZks)
@@ -25,6 +26,7 @@
 
 ## Övningar
 * Måndag-Fredag [Get Coding, följ skiss](https://www.figma.com/design/Kox5hlXEK8TDgnhpRXOYeM/mockup?node-id=0-1&node-type=canvas&t=gbOCVJDvvtuOVdRM-0)
+* Tisdag [CSS-selektorer](https://github.com/Lexicon-frontend-2024-2025/ovning-css-selektorer)
 * Onsdag [Animationsbootcamp](https://github.com/Lexicon-frontend-2024-2025/animation-bootcamp)
 
 ## Slides
@@ -33,7 +35,7 @@
 ## Lektioner
 ##### Med tillhörande repon
 * **[Måndag](https://github.com/Lexicon-frontend-2024-2025/lecture-2-dec)** - Intro till variabler, enheter och typografi. Genomgång av Google fonts. Börja med [Get Coding](https://www.figma.com/design/Kox5hlXEK8TDgnhpRXOYeM/mockup?node-id=0-1&node-type=canvas&t=gbOCVJDvvtuOVdRM-0), deadline på fredag.
-* **[Tisdag](https://github.com/Lexicon-frontend-2024-2025/lecture-3-12/tree/main)** - Forts. av gårdagen. Code along.
+* **[Tisdag](https://github.com/Lexicon-frontend-2024-2025/lecture-3-12/tree/main)** - Forts. av gårdagen samt CSS selectors. Code along.
 * **[Onsdag](https://github.com/Lexicon-frontend-2024-2025/lecture-4-dec/tree/main)** - Intro till animationer, transitions med transform på olika events (hover, mouse-leave etc). Börja med [Animation Bootcamp](https://github.com/Lexicon-frontend-2024-2025/animation-bootcamp), deadline på tisdag.
 * **[Torsdag]()** - Intro till clean code och code along på veckans koncept.
 * **[Fredag]()** - Code review på lösningen av [Get Coding](https://www.figma.com/design/Kox5hlXEK8TDgnhpRXOYeM/mockup?node-id=0-1&node-type=canvas&t=gbOCVJDvvtuOVdRM-0)
