@@ -25,7 +25,7 @@
 
 ## Övningar
 * Måndag-Fredag [Get Coding, följ skiss](https://www.figma.com/design/Kox5hlXEK8TDgnhpRXOYeM/mockup?node-id=0-1&node-type=canvas&t=gbOCVJDvvtuOVdRM-0)
-* Tisdag [CSS-selektorer](https://github.com/Lexicon-frontend-2024-2025/ovning-css-selektorer)
+* Tisdag [CSS-selektorer](https://github.com/Lexicon-frontend-2024-2025/ovning-css-selektorer) samt [CSS Diner](https://flukeout.github.io/)
 * Onsdag [Animationsbootcamp](https://github.com/Lexicon-frontend-2024-2025/animation-bootcamp)
 
 ## Slides
