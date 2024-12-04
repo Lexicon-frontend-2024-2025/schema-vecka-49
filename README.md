@@ -17,7 +17,6 @@
 * [CSS Reset++](https://piccalil.li/blog/a-more-modern-css-reset/)
 * [Whatunit.com](https://whatunit.com/) - Flow chart för att välja rätt css enhet + [Förklaring och genomgång av Flow chart](https://www.youtube.com/watch?v=Utc_uhvTluk)
 * [CSS-variabler](https://www.freecodecamp.org/news/how-to-use-css-variables/)
-* [CSS-selektorer](https://docs.google.com/presentation/d/1roWAreTYHDpQqxnZLhBtPRJIBUEeoOO98AKveVBfhkg/edit#slide=id.p)
 
 ## Youtube
 * [Don't use px for font-size](https://www.youtube.com/watch?v=xCSw6bPXZks)
@@ -31,6 +30,7 @@
 
 ## Slides
 * [Typografi](https://docs.google.com/presentation/d/1yrEVSQZPDxgLMAOTEv4kqDQYxbQbW13Xx91VIdZ00fo/edit#slide=id.ga9c0c654c7_0_222)
+* [CSS-selektorer](https://docs.google.com/presentation/d/1roWAreTYHDpQqxnZLhBtPRJIBUEeoOO98AKveVBfhkg/edit#slide=id.p)
 
 ## Lektioner
 ##### Med tillhörande repon
