@@ -18,7 +18,7 @@
 * [CSS Reset++](https://piccalil.li/blog/a-more-modern-css-reset/)
 * [Whatunit.com](https://whatunit.com/) - Flow chart för att välja rätt css enhet + [Förklaring och genomgång av Flow chart](https://www.youtube.com/watch?v=Utc_uhvTluk)
 * [CSS-variabler](https://www.freecodecamp.org/news/how-to-use-css-variables/)
-* Extra - [CUBE CSS](https://cube.fyi/) [CUBE CSS intro](https://piccalil.li/blog/cube-css/)
+* Extra - [CUBE CSS](https://cube.fyi/), [CUBE CSS intro](https://piccalil.li/blog/cube-css/)
 
 ## Youtube
 * [Don't use px for font-size](https://www.youtube.com/watch?v=xCSw6bPXZks)
