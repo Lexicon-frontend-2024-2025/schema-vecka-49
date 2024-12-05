@@ -32,8 +32,10 @@
 * Onsdag [Animationsbootcamp](https://github.com/Lexicon-frontend-2024-2025/animation-bootcamp)
 
 ## Slides
-* [Typografi](https://docs.google.com/presentation/d/1yrEVSQZPDxgLMAOTEv4kqDQYxbQbW13Xx91VIdZ00fo/edit#slide=id.ga9c0c654c7_0_222)
-* [CSS-selektorer](https://docs.google.com/presentation/d/1roWAreTYHDpQqxnZLhBtPRJIBUEeoOO98AKveVBfhkg/edit#slide=id.p)
+* [Typografi](https://docs.google.com/presentation/d/1yrEVSQZPDxgLMAOTEv4kqDQYxbQbW13Xx91VIdZ00fo)
+* [CSS-selektorer](https://docs.google.com/presentation/d/1roWAreTYHDpQqxnZLhBtPRJIBUEeoOO98AKveVBfhkg)
+* [Slides: CUBE och BEM](https://docs.google.com/presentation/d/1uC2gWvRCmMDGjdm3tNYTAyRhEjmAyTrps_LnmHkN1tw)
+* [Slides: Animationer i CSS](https://docs.google.com/presentation/d/1TJ1I4Yoy8LSKiaoLRrUTKfhyzfSTSH1WKUu6M82IFMc)
 
 ## Lektioner
 ##### Med tillhörande repon
