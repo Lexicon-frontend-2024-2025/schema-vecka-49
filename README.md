@@ -34,8 +34,8 @@
 ## Slides
 * [Typografi](https://docs.google.com/presentation/d/1yrEVSQZPDxgLMAOTEv4kqDQYxbQbW13Xx91VIdZ00fo)
 * [CSS-selektorer](https://docs.google.com/presentation/d/1roWAreTYHDpQqxnZLhBtPRJIBUEeoOO98AKveVBfhkg)
-* [Slides: CUBE och BEM](https://docs.google.com/presentation/d/1uC2gWvRCmMDGjdm3tNYTAyRhEjmAyTrps_LnmHkN1tw)
-* [Slides: Animationer i CSS](https://docs.google.com/presentation/d/1TJ1I4Yoy8LSKiaoLRrUTKfhyzfSTSH1WKUu6M82IFMc)
+* [Animationer i CSS](https://docs.google.com/presentation/d/1TJ1I4Yoy8LSKiaoLRrUTKfhyzfSTSH1WKUu6M82IFMc)
+* [ CUBE och BEM](https://docs.google.com/presentation/d/1uC2gWvRCmMDGjdm3tNYTAyRhEjmAyTrps_LnmHkN1tw)
 
 ## Lektioner
 ##### Med tillhörande repon
